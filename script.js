@@ -1,5 +1,5 @@
 //your JS code here. If required.
-let div = document.getElementById("sizeinfo");
+let div = document.getElementById("sizeInfo");
 let h1 = div.firstElementChild;
 
 window.addEventListener("resize",()=>{
